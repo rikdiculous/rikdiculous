@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello 👋
+
+My name is **Rik Andrews**. I am a student at Naval Postgraduate School working toward a Master of Science in Management. 
+
+I joined GitHub to better learn econometrics and data analysis using R.
+
+Academic areas of interest include innovation and talent clusters, agglomeration economies, knowledge spillovers, human capital theory, and path dependence.
+
+📫 How to reach me: LinkedIn (www.linkedin.com/in/andrewsrik)
 
 <!--
 **rikandrews/rikandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
