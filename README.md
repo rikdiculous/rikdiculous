@@ -4,7 +4,7 @@ My name is **Rik**. I am a student working toward a Master of Science in Managem
 
 I joined GitHub to better learn econometrics and data analysis using R.
 
-Academic areas of interest include innovation and talent clusters, agglomeration economies, knowledge spillovers, human capital theory, and path dependence.
+Academic areas of interest include innovation and talent clusters, agglomeration economies, knowledge spillovers, human capital theory, and leadership, management, and teamwork.
 
 <!--
 **rikandrews/rikandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
